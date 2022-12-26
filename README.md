@@ -15,12 +15,16 @@ Para confeccionar la plantilla, se va a establecer una alineación con formació
      la tabla a día 31/12/2020.
 
 *Hipótesis secundarias:*
+
         1. El número de pases acertados por un centrocampista es directamente proporcional 
         al número de regates realizados por el mismo.
+        
         2. El número de pases acertados por equipo es directamente 
         proporcional a su posición en la tabla.
+        
         3. El número de despejes realizados por equipo es directamente proporcional a 
         los goles encajados.
+        
         4. Pregunta: ¿Qué defensas sobresalen a nivel estadístico en alguna de las 
         variables de estudio?  
 
