@@ -8,9 +8,13 @@ casi perfecta.
 Para entender las diferentes hipótesis que se establecerán en este trabajo, es de vital 
 importancia conocer cómo iba la clasificación de este torneo a día 31 de diciembre de 2020.
 
+![Clasificacion](https://user-images.githubusercontent.com/113419791/209510253-80d293ed-d43f-4475-a46f-890844131875.jpg)
+
+
 Para confeccionar la plantilla, se va a establecer una alineación con formación 4-4-2.
 
 *Hipótesis principal:*
+
      Los mejores futbolistas pertenecen a cualquiera de los 4 equipos que encabezaban 
      la tabla a día 31/12/2020.
 
