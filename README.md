@@ -8,9 +8,6 @@ casi perfecta.
 Para entender las diferentes hipótesis que se establecerán en este trabajo, es de vital 
 importancia conocer cómo iba la clasificación de este torneo a día 31 de diciembre de 2020.
 
-![Clasificacion](https://user-images.githubusercontent.com/113419791/209510253-80d293ed-d43f-4475-a46f-890844131875.jpg)
-
-
 Para confeccionar la plantilla, se va a establecer una alineación con formación 4-4-2.
 
 *Hipótesis principal:*
@@ -34,9 +31,14 @@ Para confeccionar la plantilla, se va a establecer una alineación con formació
 
 ### Resultado del proyecto:
 
-    Memoria: [EDA MEMORIA.pdf](https://github.com/Alexcar934/EDA_LaLiga_2020-21/files/10301847/EDA.MEMORIA.pdf)
+    Memoria: [EDA MEMORIA.pdf](https://github.com/Alexcar934/EDA_LaLiga_2020-21/files/10301865/EDA.MEMORIA.pdf)
     
     Streamlit: https://alexcar934-eda-laliga-2020-21-main-4gi348.streamlit.app/
+    
+    ![Campo copia](https://user-images.githubusercontent.com/113419791/209510426-9d0f3c8a-271d-40ad-a29a-0de082b62c85.jpg)
+
+    
+    
 
 
 
