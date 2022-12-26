@@ -31,11 +31,12 @@ Para confeccionar la plantilla, se va a establecer una alineación con formació
 
 ### Resultado del proyecto:
 
-    Memoria: [EDA MEMORIA.pdf](https://github.com/Alexcar934/EDA_LaLiga_2020-21/files/10301865/EDA.MEMORIA.pdf)
+Memoria: [EDA MEMORIA.pdf](https://github.com/Alexcar934/EDA_LaLiga_2020-21/files/10301865/EDA.MEMORIA.pdf)
     
-    Streamlit: https://alexcar934-eda-laliga-2020-21-main-4gi348.streamlit.app/
+Streamlit: https://alexcar934-eda-laliga-2020-21-main-4gi348.streamlit.app/
     
-    ![Campo copia](https://user-images.githubusercontent.com/113419791/209510426-9d0f3c8a-271d-40ad-a29a-0de082b62c85.jpg)
+![Campo copia](https://user-images.githubusercontent.com/113419791/209510531-4239fd3d-83d5-42da-8648-e9a989ab496c.jpg)
+
 
     
     
