@@ -26,8 +26,9 @@ Para confeccionar la plantilla, se va a establecer una alineación con formació
 
 ### Resultado del proyecto:
 
-    Enlace a la memoria:
-    Enlace a Streamlit:
+    Memoria: [EDA MEMORIA.pdf](https://github.com/Alexcar934/EDA_LaLiga_2020-21/files/10301847/EDA.MEMORIA.pdf)
+    
+    Streamlit: https://alexcar934-eda-laliga-2020-21-main-4gi348.streamlit.app/
 
 
 
